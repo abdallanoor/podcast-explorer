@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "title": "Podcast"
+  },
+  "links": {
+    "browse": "Browse",
+    "discover": "Discover",
+    "favorites": "Favorites",
+    "search": "Search"
+  }
+}
